@@ -1,0 +1,35 @@
+body {
+  background-color:white;
+}
+
+.subscribe-button {
+background-color: black;
+color:white;
+height:40px;
+width:110px;
+cursor:pointer;
+margin: auto;
+}
+
+.tweet-button {
+background-color:#ffa500;
+color:black;
+border:none;height:40px;width:230px;
+margin: auto;
+border-radius:20px;
+font-size:16px;
+cursor:pointers
+}
+
+.join-button {
+background-color:green;
+border-color: green;
+margin: auto;
+border-width:1px;
+color:white;
+box-shadow: 900px 900px;
+height:40px;
+width:85px;
+border-radius:6px;
+cursor:pointer;
+}
